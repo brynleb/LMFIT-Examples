@@ -25,10 +25,6 @@ Initially inspired by (and named for) the Levenberg-Marquardt method from scipy.
   - Peak-like models, step-like models, polynomial models, periodic models, exponential and power-law models, and user-defined models.
   - See [Build-in models](https://lmfit.github.io/lmfit-py/builtin_models.html) for a complete list.
 
-## List of examples
-
-
-
 ## Additional resources
 
 - [LMFIT documentation](https://lmfit.github.io/lmfit-py/index.html)
