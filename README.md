@@ -21,10 +21,15 @@ Initially inspired by (and named for) the Levenberg-Marquardt method from scipy.
 - Improved curve-fitting with the Model class.
   - An extention of the capabilities of scipy.optimize.curve_fit, allowing users to turn a function that models their data into a Python class that helps parameterize and fit data with that model.
 
-- Many built-in models for common lineshapes are included and ready to use.
+- Many built-in models for common lineshapes, including:
+  - Peak-like models, step-like models, polynomial models, periodic models, exponential and power-law models, and user-defined models.
+  - See [Build-in models](https://lmfit.github.io/lmfit-py/builtin_models.html) for a complete list.
+
+## List of examples
+
+
 
 ## Additional resources
 
 - [LMFIT documentation](https://lmfit.github.io/lmfit-py/index.html)
 - [LMFIT GitHub](https://github.com/lmfit/lmfit-py/)
-- 
